@@ -1,0 +1,14 @@
+{
+	"type": "content",
+	"name": "More Seeds",
+	"version": "1.12.14-0.1",
+	
+	"description": "Crops drop more seeds when fully mature, leaves drop more saplings, grass(-like blocks) drops seeds rarely.",
+	"website": "",
+	"author": "Yorple",
+	
+	"side": "server",
+	"dependencies": {
+		"game": "*"
+	}
+}
