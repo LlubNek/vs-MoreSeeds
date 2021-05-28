@@ -50,6 +50,11 @@
 	  code: "seeds-parsnip",
 	  quantity: { avg: 0.03, var: 0 }
 	} },
+  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-pumpkin",
+	  quantity: { avg: 0.01, var: 0 }
+	} },
 	
   { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
 	  type: "item",
