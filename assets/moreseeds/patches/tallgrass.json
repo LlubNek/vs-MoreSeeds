@@ -1,13 +1,18 @@
 [
   { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
-	  code: "seeds-flax",
+	  code: "seeds-amaranth",
 	  quantity: { avg: 0.01, var: 0 }
 	} },
   { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
+	  code: "seeds-flax",
+	  quantity: { avg: 0.015, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
 	  code: "seeds-rice",
-	  quantity: { avg: 0.01, var: 0 }
+	  quantity: { avg: 0.015, var: 0 }
 	} },
   { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
@@ -18,6 +23,11 @@
 	  type: "item",
 	  code: "seeds-spelt",
 	  quantity: { avg: 0.02, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-sunflower",
+	  quantity: { avg: 0.01, var: 0 }
 	} },
 
   { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
@@ -43,13 +53,28 @@
 	
   { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
 	  type: "item",
+	  code: "seeds-cassava",
+	  quantity: { avg: 0.015, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-peanut",
+	  quantity: { avg: 0.03, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-pineapple",
+	  quantity: { avg: 0.01, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
 	  code: "seeds-soybean",
 	  quantity: { avg: 0.03, var: 0 }
 	} },
   { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-rice",
-	  quantity: { avg: 0.01, var: 0 }
+	  quantity: { avg: 0.015, var: 0 }
 	} },
   { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
 	  type: "item",
