@@ -1,0 +1,50 @@
+[
+  { file: "game:blocktypes/plant/leaves/normal", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "treeseed-{wood}",
+	  quantity: { avg: 0.1, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/leaves/branchy", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "treeseed-{wood}",
+	  quantity: { avg: 0.2, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/leaves/narrow", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "treeseed-{wood}",
+	  quantity: { avg: 0.05, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/leaves/bamboo", op: "add", path: "/drops/-", value: {
+	  type: "block",
+	  code: "sapling-{color}bamboo-free",
+	  quantity: { avg: 0.1, var: 0 }
+	} },
+
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-amaranth",
+	  quantity: { avg: 0.01, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-sunflower",
+	  quantity: { avg: 0.01, var: 0 }
+	} },
+
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-cassava",
+	  quantity: { avg: 0.015, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-peanut",
+	  quantity: { avg: 0.03, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/tallfern", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-pineapple",
+	  quantity: { avg: 0.01, var: 0 }
+	} }
+
+]

@@ -1,0 +1,27 @@
+[
+  { file: "game:blocktypes/plant/crop/amaranth", op: "add", path: "/dropsByType/*-9/-", value: {
+      type: "item", 
+	  code: "seeds-amaranth", 
+	  quantity: { avg: 1, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/crop/cassava", op: "add", path: "/dropsByType/*-9/-", value: {
+      type: "item", 
+	  code: "seeds-cassava", 
+	  quantity: { avg: 1, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/crop/peanut", op: "add", path: "/dropsByType/*-9/-", value: {
+      type: "item", 
+	  code: "seeds-peanut", 
+	  quantity: { avg: 1, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/crop/pineapple", op: "add", path: "/dropsByType/*-16/-", value: {
+      type: "item", 
+	  code: "seeds-pineapple", 
+	  quantity: { avg: 1, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/crop/sunflower", op: "add", path: "/dropsByType/*-12/-", value: {
+      type: "item", 
+	  code: "seeds-sunflower", 
+	  quantity: { avg: 1, var: 0 }
+	} }
+]
