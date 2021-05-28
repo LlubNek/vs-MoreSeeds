@@ -1,22 +1,12 @@
 [
-  { file: "game:blocktypes/plant/leaves/normal", op: "add", path: "/drops/-", value: {
-	  type: "item",
-	  code: "treeseed-{wood}",
-	  quantity: { avg: 0.1, var: 0 }
-	} },
-  { file: "game:blocktypes/plant/leaves/branchy", op: "add", path: "/drops/-", value: {
-	  type: "item",
-	  code: "treeseed-{wood}",
-	  quantity: { avg: 0.2, var: 0 }
-	} },
-  { file: "game:blocktypes/plant/leaves/narrow", op: "add", path: "/drops/-", value: {
-	  type: "item",
-	  code: "treeseed-{wood}",
-	  quantity: { avg: 0.05, var: 0 }
-	} },
-  { file: "game:blocktypes/plant/leaves/bamboo", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/wood/leaves", op: "add", path: "/drops/-", value: {
 	  type: "block",
-	  code: "sapling-{color}bamboo-free",
+	  code: "sapling-{wood}",
 	  quantity: { avg: 0.1, var: 0 }
+	} },
+  { file: "game:blocktypes/wood/leavesbranchy", op: "add", path: "/drops/-", value: {
+	  type: "block",
+	  code: "sapling-{wood}",
+	  quantity: { avg: 0.2, var: 0 }
 	} }
 ]
