@@ -19,6 +19,11 @@
 	  code: "seeds-spelt",
 	  quantity: { avg: 0.02, var: 0 }
 	} },
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-pumpkin",
+	  quantity: { avg: 0.02, var: 0 }
+	} },
 
   { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
@@ -38,6 +43,11 @@
   { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-parsnip",
+	  quantity: { avg: 0.03, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+	  type: "item",
+	  code: "seeds-turnip",
 	  quantity: { avg: 0.03, var: 0 }
 	} },
 	
