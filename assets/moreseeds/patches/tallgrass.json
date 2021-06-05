@@ -25,27 +25,27 @@
 	  quantity: { avg: 0.02, var: 0 }
 	} },
 
-  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-cabbage",
 	  quantity: { avg: 0.01, var: 0 }
 	} },
-  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-carrot",
 	  quantity: { avg: 0.02, var: 0 }
 	} },
-  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-onion",
 	  quantity: { avg: 0.01, var: 0 }
 	} },
-  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-parsnip",
 	  quantity: { avg: 0.03, var: 0 }
 	} },
-  { file: "game:blocktypes/plant/frostedtallgrass", op: "add", path: "/drops/-", value: {
+  { file: "game:blocktypes/plant/tallgrass", op: "add", path: "/drops/-", value: {
 	  type: "item",
 	  code: "seeds-turnip",
 	  quantity: { avg: 0.03, var: 0 }
