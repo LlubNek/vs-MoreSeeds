@@ -2,7 +2,7 @@
 	"type": "content",
 	"modid": "moreseeds",
 	"name": "More Seeds",
-	"version": "1.0.0",
+	"version": "1.5.0",
 	
 	"description": "Crops drop more seeds when fully mature, leaves drop more saplings, grass(-like blocks) drops seeds rarely.",
 	"website": "https://www.vintagestory.at/forums/topic/1923-more-seeds-mod/",
@@ -10,7 +10,7 @@
 	
 	"side": "server",
 	"dependencies": {
-		"game": "1.12.14",
-		"survival": "1.12.14"
+		"game": "1.14.0",
+		"survival": "1.14.0"
 	}
 }
